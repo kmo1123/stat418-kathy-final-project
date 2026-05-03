@@ -1,0 +1,23 @@
+{
+  "name": "Lu Valle Commons Outdoor Area",
+  "area": "North Campus (behind Dodd Hall)",
+  "lat": 34.0738,
+  "lng": -118.4408,
+  "description": "The private lawn and outdoor tables behind Dodd Hall next to Lu Valle Commons. The nearby courtyard between Dodd Hall and the law school is secluded and peaceful.",
+  "features": [
+    "outdoor",
+    "tables",
+    "shaded",
+    "private_feel",
+    "coffee_adjacent"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "food_nearby": "Jimmy's Coffee House at Lu Valle Commons",
+  "best_for": "solo or pair study, reading between North Campus classes",
+  "weather_dependent": true,
+  "insider_note": "A genuinely hidden gem. The Dodd/law school courtyard is very secluded. Perfect for students with North Campus classes.",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.069471+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mathias Botanical Garden",
+  "area": "Southeast Campus",
+  "lat": 34.0666,
+  "lng": -118.4404,
+  "description": "7-acre botanical garden with plant specimens from around the world. A stream, tropical plants, towering old trees, and flowers. Free admission. Best for reading or unwinding during long study days.",
+  "features": [
+    "outdoor",
+    "nature",
+    "peaceful",
+    "free_admission",
+    "walking_paths"
+  ],
+  "noise_level": "very_quiet",
+  "food_drink": false,
+  "food_nearby": "Limited — Biomedical Library area",
+  "best_for": "reading, decompression, light study",
+  "weather_dependent": true,
+  "insider_note": "Not for laptop work — no outlets. Perfect for reading a textbook on a warm afternoon or a mental break during finals.",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.070238+00:00"
+}

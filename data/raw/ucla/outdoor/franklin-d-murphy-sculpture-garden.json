@@ -1,0 +1,24 @@
+{
+  "name": "Franklin D. Murphy Sculpture Garden",
+  "area": "North Campus",
+  "lat": 34.0754,
+  "lng": -118.4396,
+  "description": "5-acre outdoor sculpture museum with works by Calder, Rodin, Noguchi, Matisse, and Miro. Grassy hills, benches, shaded tables among sculptures and flowering trees. Jacaranda trees bloom brilliantly in spring.",
+  "features": [
+    "outdoor",
+    "peaceful",
+    "benches",
+    "tables",
+    "shaded",
+    "picnic_friendly"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "food_nearby": "Cafe 451 (YRL) and North Campus Student Center nearby",
+  "best_for": "solo study, reading, mental reset",
+  "weather_dependent": true,
+  "insider_note": "One of the most beautiful spots on campus. Especially magical during jacaranda season (April-May).",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.069114+00:00"
+}

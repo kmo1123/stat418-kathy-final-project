@@ -1,0 +1,28 @@
+{
+  "name": "Kerckhoff Coffeehouse",
+  "building": "Kerckhoff Hall, 2nd Floor",
+  "lat": 34.0713,
+  "lng": -118.444,
+  "description": "UCLA's first coffee house (est. 1975). Stunning gothic architecture. Sum One coffee, pastries, sandwiches, grilled cheese + soup. Tables with outlets along the pillars.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "Outlets along the pillars — grab one early.",
+  "noise_level": "moderate",
+  "indoor_outdoor": "both",
+  "hours": "Mon-Thu 7am-10pm, Fri 7am-7pm, Sat 8am-6pm, Sun 8am-8pm",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "historic_building",
+    "outdoor_patio"
+  ],
+  "insider_note": "Iconic spot but tables fill fast. The outdoor patio is less crowded and great in good weather.",
+  "url": "https://www.asucla.ucla.edu/ucla/kerckhoff-coffeehouse",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.067882+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Veteran Resource Center",
+  "building": "Kerckhoff Hall",
+  "lat": 34.0713,
+  "lng": -118.444,
+  "description": "Welcoming space for UCLA student veterans. Open for studying and community.",
+  "features": [
+    "wifi",
+    "comfortable_seating",
+    "community_focused"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "access": "UCLA student veterans",
+  "hours_note": "Check VRC for current hours.",
+  "url": "https://www.asucla.ucla.edu/study-lounges",
+  "insider_note": "Tight-knit community. Great for veteran students.",
+  "category": "study_lounge",
+  "source": "asucla_website",
+  "collected_at": "2026-05-03T19:48:14.067770+00:00"
+}

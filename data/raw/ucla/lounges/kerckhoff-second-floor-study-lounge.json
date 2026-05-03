@@ -1,0 +1,22 @@
+{
+  "name": "Kerckhoff Second Floor Study Lounge",
+  "building": "Kerckhoff Hall, 2nd Floor",
+  "lat": 34.0713,
+  "lng": -118.444,
+  "description": "Smaller, cozier version of the 3rd floor lounge. Steps from Kerckhoff Coffeehouse.",
+  "features": [
+    "comfortable_seating",
+    "quiet",
+    "wifi",
+    "coffee_nearby"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "access": "UCLA students, faculty, staff",
+  "hours_note": "Check ASUCLA for current hours.",
+  "url": "https://www.asucla.ucla.edu/study-lounges",
+  "insider_note": "Less known than the 3rd floor lounge — often easier to get a seat.",
+  "category": "study_lounge",
+  "source": "asucla_website",
+  "collected_at": "2026-05-03T19:48:14.066104+00:00"
+}

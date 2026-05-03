@@ -1,0 +1,27 @@
+{
+  "name": "Anderson School Cafe (Starbucks)",
+  "building": "Anderson School of Management",
+  "lat": 34.073,
+  "lng": -118.4397,
+  "description": "Starbucks inside Anderson School of Management. Accepts ASUCLA meal vouchers. Shaded outdoor seating nearby.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": false,
+  "outlets_note": "Limited outlets — mostly grab-and-go.",
+  "noise_level": "moderate",
+  "indoor_outdoor": "both",
+  "hours": "Mon-Fri 7am-5pm approx, Sat-Sun Closed",
+  "features": [
+    "wifi",
+    "coffee",
+    "food",
+    "shaded_outdoor_seating",
+    "meal_vouchers"
+  ],
+  "insider_note": "Great for a quick coffee before heading to the Management Library next door.",
+  "url": "https://www.asucla.ucla.edu/locations",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068849+00:00"
+}

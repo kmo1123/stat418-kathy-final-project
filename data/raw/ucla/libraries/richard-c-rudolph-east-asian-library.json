@@ -1,0 +1,26 @@
+{
+  "name": "Richard C. Rudolph East Asian Library",
+  "category": "library",
+  "source": "ucla_library_website",
+  "url": "https://www.library.ucla.edu/visit/locations/east-asian-library/",
+  "lat": 34.0752,
+  "lng": -118.4415,
+  "insider_note": "Tucked inside YRL. Very quiet. Good option when main YRL floors are packed.",
+  "address": "21617 Charles E. Young Research Library\nBox 951575\nLos Angeles, CA 90095-1575",
+  "phone": null,
+  "email": "eal-ref@library.ucla.edu",
+  "description": "The East Asian Library supports UCLA's teaching and research programs in East Asian studies.",
+  "amenities": [
+    "Computer/Laptop Access",
+    "Print, Copy and Scan",
+    "Research Help"
+  ],
+  "spaces": [],
+  "features": [
+    "printing",
+    "computers"
+  ],
+  "hours_url": "https://calendar.library.ucla.edu/hours",
+  "reservations_url": "https://calendar.library.ucla.edu/hours",
+  "collected_at": "2026-05-03T19:48:09.883368+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "North Campus Student Center",
+  "building": "North Campus Student Center",
+  "lat": 34.0753,
+  "lng": -118.4404,
+  "description": "Cluster of student-run restaurants near Rolfe Hall and the Robert Graham Sculpture Court. Includes coffee, boba, bowls, and quick bites. Large indoor and outdoor seating — popular study hub.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "Outlets in seating areas — availability varies.",
+  "noise_level": "moderate",
+  "indoor_outdoor": "both",
+  "hours": "Varies — generally Mon-Fri daytime",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "outdoor_seating",
+    "group_friendly"
+  ],
+  "insider_note": "Rapid access to coffee, boba, and food makes this a great base for long study days.",
+  "url": "https://www.asucla.ucla.edu/locations",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068987+00:00"
+}

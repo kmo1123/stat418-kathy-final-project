@@ -1,0 +1,33 @@
+{
+  "name": "Charles E. Young Research Library (YRL)",
+  "category": "library",
+  "source": "ucla_library_website",
+  "url": "https://www.library.ucla.edu/visit/locations/research-library/",
+  "lat": 34.0752,
+  "lng": -118.4418,
+  "insider_note": "Graduate-focused. Cafe 451 on 1st floor (named after Fahrenheit 451, written by Bradbury on this campus). Research Commons has high-tech collaborative spaces.",
+  "address": "280 Charles E. Young Drive, North\nLos Angeles, CA 90095-1575",
+  "phone": "(310) 825-4732",
+  "email": "AskUs@library.ucla.edu",
+  "description": "Named for UCLA's longest-serving chancellor, the Research Library houses research-level collections in a variety of humanities and social science fields.",
+  "amenities": [
+    "ADA Stations",
+    "Cafe",
+    "Computer/Laptop Access",
+    "Laptop Lending",
+    "Locker",
+    "Print, Copy and Scan",
+    "Research Help"
+  ],
+  "spaces": [],
+  "features": [
+    "printing",
+    "computers",
+    "laptop_lending",
+    "food_nearby",
+    "ada_accessible"
+  ],
+  "hours_url": "https://calendar.library.ucla.edu/hours",
+  "reservations_url": "https://calendar.library.ucla.edu/hours",
+  "collected_at": "2026-05-03T19:48:02.041250+00:00"
+}

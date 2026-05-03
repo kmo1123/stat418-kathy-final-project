@@ -1,0 +1,23 @@
+{
+  "name": "Court of Sciences",
+  "area": "South Campus",
+  "lat": 34.0685,
+  "lng": -118.4428,
+  "description": "Open plaza surrounded by engineering and science buildings. Benches, tables, and open space used by STEM students between classes. Easy access to Boelter Hall, Young Hall, and the SEL.",
+  "features": [
+    "outdoor",
+    "tables",
+    "benches",
+    "collaborative",
+    "stem_adjacent"
+  ],
+  "noise_level": "low_moderate",
+  "food_drink": false,
+  "food_nearby": "Vending machines nearby; Bruin Cafe within walking distance",
+  "best_for": "group study, collaborative work, between-class sessions for STEM students",
+  "weather_dependent": true,
+  "insider_note": "Best during off-peak hours. Limited shade — bring sunscreen for long sessions.",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.070366+00:00"
+}

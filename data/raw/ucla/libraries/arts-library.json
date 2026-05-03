@@ -1,0 +1,28 @@
+{
+  "name": "Arts Library",
+  "category": "library",
+  "source": "ucla_library_website",
+  "url": "https://www.library.ucla.edu/visit/locations/arts-library/",
+  "lat": 34.0736,
+  "lng": -118.4393,
+  "insider_note": "Serves visual arts, architecture, and urban planning. Good natural light. Less crowded than big undergraduate libraries.",
+  "address": "1400 Public Affairs Building\nLos Angeles, CA 90095-1392",
+  "phone": "(310) 206-5425",
+  "email": "AskUs@library.ucla.edu",
+  "description": "The Arts Library is home to a comprehensive collection of materials in the fields of architecture, architectural history, art, art history, design, fashion and costume, film, television, photography, theater and allied disciplines.",
+  "amenities": [
+    "Computer/Laptop Access",
+    "Laptop Lending",
+    "Print, Copy and Scan",
+    "Research Help"
+  ],
+  "spaces": [],
+  "features": [
+    "printing",
+    "computers",
+    "laptop_lending"
+  ],
+  "hours_url": "https://calendar.library.ucla.edu/hours",
+  "reservations_url": "https://calendar.library.ucla.edu/hours",
+  "collected_at": "2026-05-03T19:48:14.059871+00:00"
+}

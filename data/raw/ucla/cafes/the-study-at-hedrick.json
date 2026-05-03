@@ -1,0 +1,32 @@
+{
+  "name": "The Study at Hedrick",
+  "building": "Hedrick Hall, The Hill",
+  "lat": 34.0731,
+  "lng": -118.4484,
+  "description": "European-style bakery cafe that doubles as a serious study space. Private study carrels, quiet reading rooms, discussion rooms with writable walls, fireplace, natural light, and abundant outlets.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "Abundant outlets throughout.",
+  "noise_level": "quiet",
+  "indoor_outdoor": "indoor",
+  "hours": "Check dining.ucla.edu for current hours",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "quiet",
+    "private_carrels",
+    "group_rooms",
+    "fireplace",
+    "natural_light",
+    "writable_walls"
+  ],
+  "insider_note": "Arguably the best study cafe on campus. The noise-canceling fish bowl carrels are legendary.",
+  "url": "https://dining.ucla.edu/the-study-at-hedrick/",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068233+00:00"
+}

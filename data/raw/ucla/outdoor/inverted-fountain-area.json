@@ -1,0 +1,23 @@
+{
+  "name": "Inverted Fountain Area",
+  "area": "South Campus (near Franz Hall)",
+  "lat": 34.0695,
+  "lng": -118.4419,
+  "description": "The iconic Inverted Fountain (1968) where water flows downward. Surrounded by tall pine trees and benches. The sound of flowing water creates a naturally calming study environment.",
+  "features": [
+    "outdoor",
+    "shaded",
+    "benches",
+    "calming_sound",
+    "iconic"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "food_nearby": "Music Cafe (Ostin Music Center) adjacent",
+  "best_for": "reading, solo study, mental reset",
+  "weather_dependent": true,
+  "insider_note": "Underrated as a study spot. Most people walk past rather than stop. The shaded pine benches are extremely peaceful.",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.069357+00:00"
+}

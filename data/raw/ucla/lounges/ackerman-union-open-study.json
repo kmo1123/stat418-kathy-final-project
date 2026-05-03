@@ -1,0 +1,22 @@
+{
+  "name": "Ackerman Union Open Study",
+  "building": "Ackerman Union",
+  "lat": 34.0707,
+  "lng": -118.444,
+  "description": "Any unreserved meeting room in Ackerman Union is available as open study space. Check the schedule posted next to each room entrance.",
+  "features": [
+    "wifi",
+    "flexible_seating",
+    "group_friendly",
+    "printing_nearby"
+  ],
+  "noise_level": "moderate",
+  "food_drink": false,
+  "access": "UCLA students, faculty, staff (unreserved rooms only)",
+  "hours_note": "Varies by room.",
+  "url": "https://www.asucla.ucla.edu/study-lounges",
+  "insider_note": "Hit or miss depending on room availability. Good for groups.",
+  "category": "study_lounge",
+  "source": "asucla_website",
+  "collected_at": "2026-05-03T19:48:14.067385+00:00"
+}

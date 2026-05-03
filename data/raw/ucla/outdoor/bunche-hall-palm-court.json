@@ -1,0 +1,23 @@
+{
+  "name": "Bunche Hall Palm Court",
+  "area": "North Campus",
+  "lat": 34.0748,
+  "lng": -118.4409,
+  "description": "A hidden atrium inside Bunche Hall (social sciences building). Palm tree-filled internal courtyard spanning four floors. Quiet, sheltered from wind, largely unknown outside social science students.",
+  "features": [
+    "outdoor_feel",
+    "sheltered",
+    "quiet",
+    "hidden_gem",
+    "natural_light"
+  ],
+  "noise_level": "quiet",
+  "food_drink": false,
+  "food_nearby": "North Campus Student Center nearby",
+  "best_for": "solo focus work, reading",
+  "weather_dependent": false,
+  "insider_note": "Most people walk right past it. Feels outdoors but protected from weather. One of campus's true hidden gems.",
+  "category": "outdoor",
+  "source": "curated",
+  "collected_at": "2026-05-03T19:48:14.069936+00:00"
+}

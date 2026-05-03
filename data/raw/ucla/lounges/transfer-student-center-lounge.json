@@ -1,0 +1,21 @@
+{
+  "name": "Transfer Student Center Lounge",
+  "building": "Ackerman Union",
+  "lat": 34.0707,
+  "lng": -118.444,
+  "description": "Lounge inside the UCLA Transfer Student Center. Also supports commuter and non-traditional students.",
+  "features": [
+    "wifi",
+    "comfortable_seating",
+    "support_services_nearby"
+  ],
+  "noise_level": "moderate",
+  "food_drink": false,
+  "access": "All students (transfer-focused)",
+  "hours_note": "Check transfer center hours.",
+  "url": "https://www.asucla.ucla.edu/study-lounges",
+  "insider_note": "Welcoming and rarely crowded. Good for commuters between classes.",
+  "category": "study_lounge",
+  "source": "asucla_website",
+  "collected_at": "2026-05-03T19:48:14.067659+00:00"
+}

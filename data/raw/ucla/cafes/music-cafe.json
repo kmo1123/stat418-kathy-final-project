@@ -1,0 +1,27 @@
+{
+  "name": "Music Cafe",
+  "building": "Ostin Music Center",
+  "lat": 34.0706,
+  "lng": -118.4396,
+  "description": "Modern cafe in the renovated Ostin Music Center near the Inverted Fountain. Sum One coffee, pastries, lunch items. Great atmosphere for music lovers and artists.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "A few outlets — arrive early for a good seat.",
+  "noise_level": "low_moderate",
+  "indoor_outdoor": "indoor",
+  "hours": "Mon-Thu 7am-6pm, Fri 7am-5pm, Sat-Sun Closed",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "artistic_atmosphere"
+  ],
+  "insider_note": "Less known than Kerckhoff but equally charming. Next to the Inverted Fountain — a calming spot.",
+  "url": "https://www.asucla.ucla.edu/locations",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068338+00:00"
+}

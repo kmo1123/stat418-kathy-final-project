@@ -1,0 +1,28 @@
+{
+  "name": "Jimmy's Coffee House",
+  "building": "Lu Valle Commons",
+  "lat": 34.0738,
+  "lng": -118.4408,
+  "description": "Named after Olympian Jimmy Lu Valle. Peet's coffee, espresso, matcha, pastries, sushi, light lunch. Indoor seating almost always less crowded than Kerckhoff.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "Some outlets — try to snag a table near the wall.",
+  "noise_level": "low_moderate",
+  "indoor_outdoor": "both",
+  "hours": "Mon-Thu 7am-9pm, Fri 7am-5pm, Sat 8am-3pm, Sun 10am-4pm",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "less_crowded",
+    "outdoor_seating"
+  ],
+  "insider_note": "Student favorite — less hectic than Kerckhoff. The outdoor tables behind Dodd Hall nearby are a hidden gem.",
+  "url": "https://www.asucla.ucla.edu/locations",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068121+00:00"
+}

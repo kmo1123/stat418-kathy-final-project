@@ -1,0 +1,28 @@
+{
+  "name": "Cafe 451",
+  "building": "Young Research Library (YRL), 1st Floor",
+  "lat": 34.0752,
+  "lng": -118.4418,
+  "description": "Named after Fahrenheit 451, written by Bradbury on this campus. Peet's coffee, pastries, sandwiches, salads, and sushi. Cozy study spot inside YRL.",
+  "coffee": true,
+  "food": true,
+  "wifi": true,
+  "outlets": true,
+  "outlets_note": "Library wifi and outlets throughout YRL.",
+  "noise_level": "moderate",
+  "indoor_outdoor": "indoor",
+  "hours": "Check YRL hours — typically Mon-Fri 8am-6pm",
+  "features": [
+    "wifi",
+    "outlets",
+    "coffee",
+    "food",
+    "library_adjacent",
+    "quiet_nearby"
+  ],
+  "insider_note": "Best combo: coffee here then head upstairs to the quiet YRL stacks.",
+  "url": "https://www.asucla.ucla.edu/locations",
+  "category": "cafe",
+  "source": "curated_asucla_dining",
+  "collected_at": "2026-05-03T19:48:14.068004+00:00"
+}

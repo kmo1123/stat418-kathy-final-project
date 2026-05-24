@@ -3,21 +3,26 @@
   "area": "Central Campus",
   "lat": 34.0707,
   "lng": -118.4443,
-  "description": "Outdoor seating area on the Ackerman Union terrace overlooking Ackerman Square. Shaded seating with a view of central campus. Close to printing, food, and the UCLA Store.",
+  "description": "Outdoor seating on the Ackerman Union terrace overlooking Ackerman Square. Shaded tables. Close to printing and food options inside the building.",
   "features": [
     "outdoor",
     "shaded",
     "central_location",
-    "views",
     "printing_nearby"
   ],
   "noise_level": "moderate",
   "food_drink": false,
-  "food_nearby": "Multiple ASUCLA options inside Ackerman Union",
-  "best_for": "casual study, group meetups, between-class sessions",
+  "food_nearby": "Multiple options inside Ackerman Union",
   "weather_dependent": true,
-  "insider_note": "Gets busy mid-day. Better in the morning or late afternoon.",
+  "best_times": [
+    "mornings before 10am",
+    "late afternoon after 4pm"
+  ],
+  "avoid_times": [
+    "noon-2pm on weekdays"
+  ],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.069729+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.548984+00:00"
 }

@@ -3,26 +3,32 @@
   "building": "Young Research Library (YRL), 1st Floor",
   "lat": 34.0752,
   "lng": -118.4418,
-  "description": "Named after Fahrenheit 451, written by Bradbury on this campus. Peet's coffee, pastries, sandwiches, salads, and sushi. Cozy study spot inside YRL.",
+  "description": "Peet's cafe on the first floor of YRL. Serves coffee, pastries, sandwiches, salads, and sushi.",
   "coffee": true,
   "food": true,
   "wifi": true,
   "outlets": true,
-  "outlets_note": "Library wifi and outlets throughout YRL.",
   "noise_level": "moderate",
   "indoor_outdoor": "indoor",
-  "hours": "Check YRL hours — typically Mon-Fri 8am-6pm",
+  "hours": "Mon-Fri 8am-6pm (varies by term)",
+  "hours_source": "library.ucla.edu",
   "features": [
     "wifi",
     "outlets",
     "coffee",
     "food",
-    "library_adjacent",
-    "quiet_nearby"
+    "library_adjacent"
   ],
-  "insider_note": "Best combo: coffee here then head upstairs to the quiet YRL stacks.",
-  "url": "https://www.asucla.ucla.edu/locations",
+  "url": "https://www.library.ucla.edu/visit/locations/research-library/",
+  "best_times": [
+    "weekday mornings",
+    "after 3pm"
+  ],
+  "avoid_times": [
+    "noon-1:30pm on weekdays"
+  ],
   "category": "cafe",
-  "source": "curated_asucla_dining",
-  "collected_at": "2026-05-03T19:48:14.068004+00:00"
+  "source": "asucla_dining_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.547564+00:00"
 }

@@ -1,0 +1,5 @@
+category,count,pct_wifi,pct_outlets,pct_food_capable,pct_weather_dep,mean_n_features,mean_noise_encoded,mean_comfort_score,mean_connectivity_score,mean_group_score
+cafe,8,1.0,0.88,1.0,0.0,5.38,3.5,0.38,1.88,0.38
+library,8,0.0,0.0,0.0,0.0,3.38,,0.0,0.0,0.0
+outdoor,8,0.0,0.0,0.0,0.88,3.62,2.38,0.75,0.12,0.38
+study_lounge,6,1.0,0.17,0.0,0.0,3.0,2.33,1.33,1.33,0.33

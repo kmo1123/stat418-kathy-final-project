@@ -3,21 +3,24 @@
   "area": "North Campus",
   "lat": 34.0748,
   "lng": -118.4409,
-  "description": "A hidden atrium inside Bunche Hall (social sciences building). Palm tree-filled internal courtyard spanning four floors. Quiet, sheltered from wind, largely unknown outside social science students.",
+  "description": "Internal atrium inside Bunche Hall with palm trees spanning four open floors. Sheltered from wind. Low foot traffic outside of class transition periods.",
   "features": [
-    "outdoor_feel",
-    "sheltered",
+    "sheltered_atrium",
     "quiet",
-    "hidden_gem",
     "natural_light"
   ],
   "noise_level": "quiet",
   "food_drink": false,
-  "food_nearby": "North Campus Student Center nearby",
-  "best_for": "solo focus work, reading",
+  "food_nearby": "North Campus Student Center",
   "weather_dependent": false,
-  "insider_note": "Most people walk right past it. Feels outdoors but protected from weather. One of campus's true hidden gems.",
+  "best_times": [
+    "mid-morning and afternoon on weekdays"
+  ],
+  "avoid_times": [
+    "Bunche Hall class transition periods"
+  ],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.069936+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.549096+00:00"
 }

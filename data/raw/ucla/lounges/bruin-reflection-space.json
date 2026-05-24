@@ -3,20 +3,23 @@
   "building": "Ackerman Union, 3rd Floor",
   "lat": 34.0707,
   "lng": -118.444,
-  "description": "Non-denominational space for contemplation, meditation, and prayer. Open to all Bruins. Extremely quiet.",
+  "description": "Non-denominational space for contemplation, meditation, and prayer. Open to all students. Quiet atmosphere maintained.",
   "features": [
     "quiet",
     "wifi",
-    "calm_atmosphere",
     "comfortable_seating"
   ],
   "noise_level": "silent",
   "food_drink": false,
-  "access": "All Bruins",
-  "hours_note": "Check ASUCLA for current hours.",
+  "access": "All students",
+  "hours_note": "Check asucla.ucla.edu/study-lounges for current hours.",
   "url": "https://www.asucla.ucla.edu/study-lounges",
-  "insider_note": "Underrated for solo focused work. Very few people know about it.",
+  "best_times": [
+    "any time during operating hours"
+  ],
+  "avoid_times": [],
   "category": "study_lounge",
-  "source": "asucla_website",
-  "collected_at": "2026-05-03T19:48:14.067536+00:00"
+  "source": "asucla_website_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.546963+00:00"
 }

@@ -3,21 +3,26 @@
   "building": "Kerckhoff Hall, 3rd Floor",
   "lat": 34.0713,
   "lng": -118.444,
-  "description": "Originally the Women's Smoking Room, now a co-ed study lounge with comfortable couches, bright lighting, and stained glass bay windows.",
+  "description": "Co-ed study lounge with comfortable couches, overhead lighting, and stained glass bay windows. Originally the Women's Smoking Room.",
   "features": [
     "comfortable_seating",
     "quiet",
     "wifi",
-    "historic_space",
     "outlets"
   ],
   "noise_level": "quiet",
   "food_drink": false,
   "access": "UCLA students, faculty, staff",
-  "hours_note": "Check ASUCLA for current hours.",
+  "hours_note": "Check asucla.ucla.edu/study-lounges for current hours.",
   "url": "https://www.asucla.ucla.edu/study-lounges",
-  "insider_note": "One of the most beautiful study spots on campus. Get there early.",
+  "best_times": [
+    "weekday mornings"
+  ],
+  "avoid_times": [
+    "midterms and finals week afternoons"
+  ],
   "category": "study_lounge",
-  "source": "asucla_website",
-  "collected_at": "2026-05-03T19:48:14.065914+00:00"
+  "source": "asucla_website_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.546375+00:00"
 }

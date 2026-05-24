@@ -5,7 +5,14 @@
   "url": "https://www.library.ucla.edu/visit/locations/powell-library/",
   "lat": 34.0713,
   "lng": -118.4417,
-  "insider_note": "Main undergrad library. Night Powell opens overnight during finals week. The Rotunda and Rose Gilbert Reading Room are quietest.",
+  "best_times": [
+    "weekday mornings before 10am",
+    "weekday evenings after 8pm"
+  ],
+  "avoid_times": [
+    "weekdays 11am-3pm during midterms and finals"
+  ],
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
   "address": "10740 Dickson Plaza\nLos Angeles, CA 90095-1450",
   "phone": "(310) 825-1938",
   "email": "AskUs@library.ucla.edu",
@@ -18,7 +25,6 @@
     "Print, Copy and Scan",
     "Research Help"
   ],
-  "spaces": [],
   "features": [
     "printing",
     "24_hours",
@@ -27,6 +33,5 @@
     "ada_accessible"
   ],
   "hours_url": "https://calendar.library.ucla.edu/hours",
-  "reservations_url": "https://calendar.library.ucla.edu/hours",
-  "collected_at": "2026-05-03T19:47:59.898209+00:00"
+  "collected_at": "2026-05-09T05:18:44.456128+00:00"
 }

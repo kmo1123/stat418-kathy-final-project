@@ -1,0 +1,16 @@
+query,rank,name,category,similarity
+"Quiet solo study, need wifi + outlets, indoors",1,Louise Kerckhoff Study Lounge,study_lounge,0.9115
+"Quiet solo study, need wifi + outlets, indoors",2,Bruin Reflection Space,study_lounge,0.8397
+"Quiet solo study, need wifi + outlets, indoors",3,Kerckhoff Second Floor Study Lounge,study_lounge,0.8255
+"Group study, need food + coffee, noise is fine",1,Anderson School Cafe (Starbucks),cafe,0.9202
+"Group study, need food + coffee, noise is fine",2,Cafe 451,cafe,0.9173
+"Group study, need food + coffee, noise is fine",3,Music Cafe,cafe,0.9141
+"Outdoor, shaded, reading — no tech needed",1,Inverted Fountain Area,outdoor,0.9791
+"Outdoor, shaded, reading — no tech needed",2,Lu Valle Commons Outdoor Area,outdoor,0.9753
+"Outdoor, shaded, reading — no tech needed",3,Mathias Botanical Garden,outdoor,0.9697
+"Quick coffee + laptop, moderate noise ok",1,Cafe 451,cafe,0.9456
+"Quick coffee + laptop, moderate noise ok",2,Music Cafe,cafe,0.9451
+"Quick coffee + laptop, moderate noise ok",3,Bruin Cafe,cafe,0.9292
+"Very quiet, comfortable, no food needed",1,Bunche Hall Palm Court,outdoor,0.4277
+"Very quiet, comfortable, no food needed",2,Bruin Reflection Space,study_lounge,0.3796
+"Very quiet, comfortable, no food needed",3,Kerckhoff Second Floor Study Lounge,study_lounge,0.3732

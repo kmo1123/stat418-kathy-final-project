@@ -3,10 +3,9 @@
   "area": "North Campus",
   "lat": 34.0754,
   "lng": -118.4396,
-  "description": "5-acre outdoor sculpture museum with works by Calder, Rodin, Noguchi, Matisse, and Miro. Grassy hills, benches, shaded tables among sculptures and flowering trees. Jacaranda trees bloom brilliantly in spring.",
+  "description": "Five-acre outdoor sculpture garden with works by Calder, Rodin, Noguchi, Matisse, and Miro. Benches, shaded tables, and grass areas. Jacaranda trees bloom in spring.",
   "features": [
     "outdoor",
-    "peaceful",
     "benches",
     "tables",
     "shaded",
@@ -14,11 +13,17 @@
   ],
   "noise_level": "quiet",
   "food_drink": false,
-  "food_nearby": "Cafe 451 (YRL) and North Campus Student Center nearby",
-  "best_for": "solo study, reading, mental reset",
+  "food_nearby": "Cafe 451 (YRL) and North Campus Student Center",
   "weather_dependent": true,
-  "insider_note": "One of the most beautiful spots on campus. Especially magical during jacaranda season (April-May).",
+  "best_times": [
+    "weekday mornings",
+    "late afternoons"
+  ],
+  "avoid_times": [
+    "midday in summer"
+  ],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.069114+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.548535+00:00"
 }

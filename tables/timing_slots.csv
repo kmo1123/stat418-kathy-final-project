@@ -1,0 +1,5 @@
+,Early Morning (before 9am)_best,Morning (9am–11am)_best,Midday (11am–2pm)_best,Afternoon (2pm–5pm)_best,Evening (5pm–8pm)_best,Night (after 8pm)_best,Weekdays_best,Weekends_best,Finals / Midterms_best,Early Morning (before 9am)_avoid,Morning (9am–11am)_avoid,Midday (11am–2pm)_avoid,Afternoon (2pm–5pm)_avoid,Evening (5pm–8pm)_avoid,Night (after 8pm)_avoid,Weekdays_avoid,Weekends_avoid,Finals / Midterms_avoid
+library,0,6,5,4,2,1,6,3,0,0,1,4,4,1,0,1,1,2
+study_lounge,0,2,1,1,0,0,2,1,0,0,0,1,1,0,0,0,0,1
+cafe,2,7,4,5,1,0,6,0,0,0,1,6,2,0,0,5,0,0
+outdoor,2,6,6,6,3,0,6,0,0,0,0,4,1,0,0,1,0,0

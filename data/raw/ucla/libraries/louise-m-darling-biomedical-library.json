@@ -5,7 +5,13 @@
   "url": "https://www.library.ucla.edu/visit/locations/biomed/",
   "lat": 34.0663,
   "lng": -118.4446,
-  "insider_note": "24-hour reading room for health/life sciences grad students. 8 group study rooms on the 6th floor. Less foot traffic than north campus libraries.",
+  "best_times": [
+    "weekday mornings and afternoons"
+  ],
+  "avoid_times": [
+    "early afternoon during health sciences class transitions"
+  ],
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
   "address": "12-077 Center for the Health Sciences Box 951798\nLos Angeles, CA 90095-1798",
   "phone": "(310) 825-4904",
   "email": "AskUs@library.ucla.edu",
@@ -18,7 +24,6 @@
     "Print, Copy and Scan",
     "Research Help"
   ],
-  "spaces": [],
   "features": [
     "printing",
     "24_hours",
@@ -27,6 +32,5 @@
     "ada_accessible"
   ],
   "hours_url": "https://calendar.library.ucla.edu/hours",
-  "reservations_url": "https://calendar.library.ucla.edu/hours",
-  "collected_at": "2026-05-03T19:48:05.883432+00:00"
+  "collected_at": "2026-05-09T05:18:50.459683+00:00"
 }

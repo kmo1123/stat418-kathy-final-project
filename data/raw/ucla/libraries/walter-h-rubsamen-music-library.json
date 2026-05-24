@@ -5,7 +5,11 @@
   "url": "https://www.library.ucla.edu/visit/locations/music-library/",
   "lat": 34.0704,
   "lng": -118.4398,
-  "insider_note": "Very small and very quiet. Listening stations available. Rarely crowded — a hidden gem for focused solo study.",
+  "best_times": [
+    "any time during operating hours"
+  ],
+  "avoid_times": [],
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
   "address": "1102 Schoenberg Music Building\nLos Angeles, CA 90095-1490",
   "phone": "(310) 825-4882",
   "email": "AskUs@library.ucla.edu",
@@ -15,13 +19,11 @@
     "Laptop Lending",
     "Print, Copy and Scan"
   ],
-  "spaces": [],
   "features": [
     "printing",
     "computers",
     "laptop_lending"
   ],
   "hours_url": "https://calendar.library.ucla.edu/hours",
-  "reservations_url": "https://calendar.library.ucla.edu/hours",
-  "collected_at": "2026-05-03T19:48:07.957926+00:00"
+  "collected_at": "2026-05-09T05:18:52.629141+00:00"
 }

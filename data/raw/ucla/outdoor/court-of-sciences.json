@@ -3,21 +3,26 @@
   "area": "South Campus",
   "lat": 34.0685,
   "lng": -118.4428,
-  "description": "Open plaza surrounded by engineering and science buildings. Benches, tables, and open space used by STEM students between classes. Easy access to Boelter Hall, Young Hall, and the SEL.",
+  "description": "Open plaza surrounded by engineering and science buildings. Benches and tables. Adjacent to Boelter Hall, Young Hall, and the SEL.",
   "features": [
     "outdoor",
     "tables",
-    "benches",
-    "collaborative",
-    "stem_adjacent"
+    "benches"
   ],
   "noise_level": "low_moderate",
   "food_drink": false,
-  "food_nearby": "Vending machines nearby; Bruin Cafe within walking distance",
-  "best_for": "group study, collaborative work, between-class sessions for STEM students",
+  "food_nearby": "Bruin Cafe within walking distance",
   "weather_dependent": true,
-  "insider_note": "Best during off-peak hours. Limited shade — bring sunscreen for long sessions.",
+  "best_times": [
+    "early morning",
+    "late afternoon after 4pm"
+  ],
+  "avoid_times": [
+    "class transition periods",
+    "midday in summer"
+  ],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.070366+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.549306+00:00"
 }

@@ -3,21 +3,23 @@
   "area": "Southeast Campus",
   "lat": 34.0666,
   "lng": -118.4404,
-  "description": "7-acre botanical garden with plant specimens from around the world. A stream, tropical plants, towering old trees, and flowers. Free admission. Best for reading or unwinding during long study days.",
+  "description": "Seven-acre botanical garden with plants from around the world. A stream, tropical specimens, and large trees along walking paths. Free admission. No outlets or tables — suited to reading physical materials.",
   "features": [
     "outdoor",
     "nature",
-    "peaceful",
-    "free_admission",
-    "walking_paths"
+    "walking_paths",
+    "free_admission"
   ],
   "noise_level": "very_quiet",
   "food_drink": false,
-  "food_nearby": "Limited — Biomedical Library area",
-  "best_for": "reading, decompression, light study",
+  "food_nearby": "Limited — Biomedical Library area is closest",
   "weather_dependent": true,
-  "insider_note": "Not for laptop work — no outlets. Perfect for reading a textbook on a warm afternoon or a mental break during finals.",
+  "best_times": [
+    "warm weekday afternoons"
+  ],
+  "avoid_times": [],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.070238+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.549202+00:00"
 }

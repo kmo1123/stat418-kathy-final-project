@@ -3,20 +3,25 @@
   "area": "Central Campus",
   "lat": 34.0713,
   "lng": -118.4438,
-  "description": "Outdoor patio directly outside Kerckhoff Hall. Tables shaded by umbrellas or trees plus open sunny spots. Steps from Kerckhoff Coffeehouse. Indoor/outdoor combo unbeatable on good weather days.",
+  "description": "Outdoor seating directly outside Kerckhoff Hall. Umbrella-shaded tables and open sunny spots. Kerckhoff Coffeehouse is accessible from inside the building.",
   "features": [
     "outdoor",
     "shaded_tables",
-    "sunny_spots",
-    "coffee_steps_away"
+    "coffee_adjacent"
   ],
   "noise_level": "low_moderate",
   "food_drink": false,
-  "food_nearby": "Kerckhoff Coffeehouse steps away",
-  "best_for": "casual study, outdoor coffee sessions",
+  "food_nearby": "Kerckhoff Coffeehouse",
   "weather_dependent": true,
-  "insider_note": "Go early — tables fill fast. The shaded umbrella tables are premium spots.",
+  "best_times": [
+    "weekday mornings before 10am",
+    "late afternoon after 4pm"
+  ],
+  "avoid_times": [
+    "midday when shade coverage is lowest"
+  ],
   "category": "outdoor",
-  "source": "curated",
-  "collected_at": "2026-05-03T19:48:14.069238+00:00"
+  "source": "curated_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.548658+00:00"
 }

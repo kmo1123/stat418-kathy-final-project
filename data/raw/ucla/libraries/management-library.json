@@ -5,16 +5,21 @@
   "url": "https://www.library.ucla.edu/visit/locations/management-library/",
   "lat": 34.073,
   "lng": -118.4397,
-  "insider_note": "Located in Cornell Hall at Anderson School of Management. Anderson Starbucks is nearby.",
+  "best_times": [
+    "weekday mornings",
+    "Friday afternoons"
+  ],
+  "avoid_times": [
+    "mid-morning and mid-afternoon during MBA class transitions"
+  ],
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
   "address": null,
   "phone": null,
   "email": null,
   "description": null,
   "amenities": [],
-  "spaces": [],
   "features": [],
   "hours_url": "https://calendar.library.ucla.edu/hours",
-  "reservations_url": null,
-  "collected_at": "2026-05-03T19:48:11.735169+00:00",
+  "collected_at": "2026-05-09T05:18:56.400869+00:00",
   "scrape_error": "Could not fetch page"
 }

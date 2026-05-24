@@ -1,9 +1,18 @@
-2026-05-03 12:47:59,868 - INFO - GET https://www.library.ucla.edu/visit/locations/powell-library/ -> 200
-2026-05-03 12:48:02,013 - INFO - GET https://www.library.ucla.edu/visit/locations/research-library/ -> 200
-2026-05-03 12:48:03,892 - INFO - GET https://www.library.ucla.edu/visit/locations/science-engineering-library/ -> 200
-2026-05-03 12:48:05,864 - INFO - GET https://www.library.ucla.edu/visit/locations/biomed/ -> 200
-2026-05-03 12:48:07,931 - INFO - GET https://www.library.ucla.edu/visit/locations/music-library/ -> 200
-2026-05-03 12:48:09,858 - INFO - GET https://www.library.ucla.edu/visit/locations/east-asian-library/ -> 200
-2026-05-03 12:48:11,734 - ERROR - Failed GET https://www.library.ucla.edu/visit/locations/management-library/: 404 Client Error: Not Found for url: https://www.library.ucla.edu/visit/locations/management-library/
-2026-05-03 12:48:14,036 - INFO - GET https://www.library.ucla.edu/visit/locations/arts-library/ -> 200
-2026-05-03 12:48:14,070 - INFO - Saved 30 spots -> /Users/kathymo/Documents/GitHub/stat418-kathy-final-project/data/raw/ucla/all_spots.json
+2026-05-08 17:48:23,612 - INFO - GET https://www.library.ucla.edu/visit/locations/powell-library/ -> 200
+2026-05-08 17:48:25,619 - INFO - GET https://www.library.ucla.edu/visit/locations/research-library/ -> 200
+2026-05-08 17:48:27,582 - INFO - GET https://www.library.ucla.edu/visit/locations/science-engineering-library/ -> 200
+2026-05-08 17:48:29,730 - INFO - GET https://www.library.ucla.edu/visit/locations/biomed/ -> 200
+2026-05-08 17:48:31,608 - INFO - GET https://www.library.ucla.edu/visit/locations/music-library/ -> 200
+2026-05-08 17:48:33,639 - INFO - GET https://www.library.ucla.edu/visit/locations/east-asian-library/ -> 200
+2026-05-08 17:48:35,586 - ERROR - Failed GET https://www.library.ucla.edu/visit/locations/management-library/: 404 Client Error: Not Found for url: https://www.library.ucla.edu/visit/locations/management-library/
+2026-05-08 17:48:37,838 - INFO - GET https://www.library.ucla.edu/visit/locations/arts-library/ -> 200
+2026-05-08 17:48:37,865 - INFO - Saved 30 spots -> /Users/kathymo/Documents/GitHub/stat418-kathy-final-project/data/raw/ucla/all_spots.json
+2026-05-08 22:18:44,427 - INFO - GET https://www.library.ucla.edu/visit/locations/powell-library/ -> 200
+2026-05-08 22:18:46,495 - INFO - GET https://www.library.ucla.edu/visit/locations/research-library/ -> 200
+2026-05-08 22:18:48,518 - INFO - GET https://www.library.ucla.edu/visit/locations/science-engineering-library/ -> 200
+2026-05-08 22:18:50,430 - INFO - GET https://www.library.ucla.edu/visit/locations/biomed/ -> 200
+2026-05-08 22:18:52,601 - INFO - GET https://www.library.ucla.edu/visit/locations/music-library/ -> 200
+2026-05-08 22:18:54,555 - INFO - GET https://www.library.ucla.edu/visit/locations/east-asian-library/ -> 200
+2026-05-08 22:18:56,400 - ERROR - Failed GET https://www.library.ucla.edu/visit/locations/management-library/: 404 Client Error: Not Found for url: https://www.library.ucla.edu/visit/locations/management-library/
+2026-05-08 22:18:58,517 - INFO - GET https://www.library.ucla.edu/visit/locations/arts-library/ -> 200
+2026-05-08 22:18:58,549 - INFO - Saved 30 spots -> /Users/kathymo/Documents/GitHub/stat418-kathy-final-project/data/raw/ucla/all_spots.json

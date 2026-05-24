@@ -5,7 +5,15 @@
   "url": "https://www.library.ucla.edu/visit/locations/science-engineering-library/",
   "lat": 34.0692,
   "lng": -118.4432,
-  "insider_note": "Two locations: Boelter Hall 8th floor and Geology Building. The silent section at the far end of Boelter is legendary. Less crowded than Powell or YRL.",
+  "best_times": [
+    "weekdays before 11am",
+    "evenings after 7pm",
+    "weekends"
+  ],
+  "avoid_times": [
+    "Tuesday and Thursday afternoons"
+  ],
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
   "address": "8270 Boelter Hall\nLos Angeles, CA 90095-9810",
   "phone": "(310) 825-3982",
   "email": "AskUs@library.ucla.edu",
@@ -17,7 +25,6 @@
     "Print, Copy and Scan",
     "Research Help"
   ],
-  "spaces": [],
   "features": [
     "printing",
     "computers",
@@ -25,6 +32,5 @@
     "ada_accessible"
   ],
   "hours_url": "https://calendar.library.ucla.edu/hours",
-  "reservations_url": "https://calendar.library.ucla.edu/hours",
-  "collected_at": "2026-05-03T19:48:03.913800+00:00"
+  "collected_at": "2026-05-09T05:18:48.545447+00:00"
 }

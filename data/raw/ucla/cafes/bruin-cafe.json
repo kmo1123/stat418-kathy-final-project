@@ -3,26 +3,31 @@
   "building": "Sproul Hall",
   "lat": 34.0728,
   "lng": -118.4476,
-  "description": "Casual dining cafe with indoor space and outdoor patio. Sandwiches, salads, soups, specialty coffees, teas, smoothies. Both indoor and outdoor areas are great study spots.",
+  "description": "Dining cafe with indoor seating and an outdoor patio. Menu includes sandwiches, salads, soups, coffee, tea, and smoothies.",
   "coffee": true,
   "food": true,
   "wifi": true,
   "outlets": true,
-  "outlets_note": "Outlets available indoors.",
   "noise_level": "moderate",
   "indoor_outdoor": "both",
   "hours": "Check dining.ucla.edu for current hours",
+  "hours_source": "dining.ucla.edu",
   "features": [
     "wifi",
     "outlets",
     "coffee",
     "food",
-    "outdoor_patio",
-    "on_the_hill"
+    "outdoor_patio"
   ],
-  "insider_note": "Convenient for Hill residents. Outdoor patio is great on sunny LA days.",
   "url": "https://dining.ucla.edu/bruin-cafe/",
+  "best_times": [
+    "mid-morning and late afternoon on weekdays"
+  ],
+  "avoid_times": [
+    "meal rush periods"
+  ],
   "category": "cafe",
-  "source": "curated_asucla_dining",
-  "collected_at": "2026-05-03T19:48:14.068633+00:00"
+  "source": "asucla_dining_static",
+  "times_note": "General estimate based on typical university patterns. Actual occupancy varies by term, week, and day.",
+  "collected_at": "2026-05-09T05:18:58.548113+00:00"
 }

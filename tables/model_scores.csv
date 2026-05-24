@@ -1,0 +1,5 @@
+model,precision_at_3,mrr
+RF-KNN,0.967,0.967
+Plain KNN,0.956,0.95
+SVD,0.956,0.95
+Jaccard,0.778,0.789

@@ -21,9 +21,9 @@ The user sets preferences (quiet vs. noisy, needs wifi/outlets, indoor vs. outdo
 ucla-study-spots/
 ├── api.py                          # FastAPI backend
 ├── app.py                          # Streamlit frontend
-├── ucla_study_spots_collector.py   # Data collection pipeline
-├── ucla_study_spots_eda.py         # EDA and feature engineering
-├── ucla_study_spots_model.py       # Model training and evaluation
+├── ucla_collector.py               # Data collection pipeline
+├── eda.py                          # EDA and feature engineering
+├── model.py                        # Model training and evaluation
 ├── dockerfile                      # Docker container for the API
 ├── requirements.txt                # All dependencies
 ├── data/

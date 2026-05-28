@@ -26,7 +26,7 @@ Outputs:
 
 Usage:
   pip install requests beautifulsoup4
-  python ucla_study_spots_collector.py
+  python ucla_scraper.py
 """
 
 import json

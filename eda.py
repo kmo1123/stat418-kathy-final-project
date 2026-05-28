@@ -28,7 +28,7 @@ Outputs:
   tables/timing_slots.csv
 
 Usage:
-  python ucla_study_spots_eda.py
+  python eda.py
 """
 
 from pathlib import Path

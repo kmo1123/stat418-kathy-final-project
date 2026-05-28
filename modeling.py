@@ -38,7 +38,7 @@ Outputs
 Usage
 -----
   pip install scikit-learn pandas matplotlib seaborn numpy
-  python ucla_study_spots_model.py
+  python modeling.py
 """
 
 from pathlib import Path

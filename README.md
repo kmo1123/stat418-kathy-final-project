@@ -2,11 +2,8 @@
 
 A content-based recommendation system that helps UCLA students find the right on-campus study spot based on their preferences. Built with a FastAPI backend, a Streamlit frontend, and an RF-weighted KNN model.
 
-**Live app:** `https://your-app.streamlit.app`  
-**API:** `https://your-api.run.app`  
-**API docs:** `https://your-api.run.app/docs`
-
----
+**App:** `https://stat418-kathy-final-project-bmpv6hxtgtpelge29ujkqn.streamlit.app/ `  
+**API:** `https://ucla-study-api-853468627492.us-central1.run.app/docs`  
 
 ## Project Overview
 
@@ -14,11 +11,9 @@ UCLA has over 30 distinct study spots across libraries, cafes, lounges, and outd
 
 The user sets preferences (quiet vs. noisy, needs wifi/outlets, indoor vs. outdoor, solo vs. group) and receives three ranked recommendations with match scores, best times to visit, and a per-feature explanation of why each spot was suggested.
 
----
-
 ## Solution Architecture
 
-
+<img width="874" height="1308" alt="Screenshot 2026-05-26 at 7 36 02 PM" src="https://github.com/user-attachments/assets/6e44c2bc-1ec4-48b6-b6a1-00ca761db734" />
 
 ## Repository Structure
 
@@ -26,10 +21,10 @@ The user sets preferences (quiet vs. noisy, needs wifi/outlets, indoor vs. outdo
 ucla-study-spots/
 ├── api.py                          # FastAPI backend
 ├── app.py                          # Streamlit frontend
-├── ucla_study_spots_collector.py   # Data collection pipeline
-├── ucla_study_spots_eda.py         # EDA and feature engineering
-├── ucla_study_spots_model.py       # Model training and evaluation
-├── Dockerfile.api                  # Docker container for the API
+├── ucla_scraper.py                 # Data collection pipeline
+├── eda.py                          # EDA and feature engineering
+├── modeling.py                     # Model training and evaluation
+├── dockerfile                      # Docker container for the API
 ├── requirements.txt                # All dependencies
 ├── data/
 │   └── raw/ucla/
@@ -47,8 +42,6 @@ ucla-study-spots/
 └── plots/                          # EDA and model visualization outputs
 ```
 
----
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -61,8 +54,8 @@ ucla-study-spots/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kmo1123/stat418-kathy-final-project.git
+cd stat418-kathy-final-project
 ```
 
 ### 2. Install dependencies
@@ -108,9 +101,6 @@ python -m streamlit run app.py
 ```
 
 Then open **http://localhost:8501** in your browser.  
-API docs are available at **http://localhost:8000/docs**.
-
----
 
 ## Model
 
@@ -194,7 +184,7 @@ curl -X POST https://your-api.run.app/recommend \
 
 ```bash
 # Build for linux/amd64 (required for Cloud Run, even on Mac)
-podman build --platform linux/amd64 -f Dockerfile.api -t yourusername/ucla-study-api:latest .
+podman build --platform linux/amd64 -f dockerfile -t yourusername/ucla-study-api:latest .
 
 # Push to Docker Hub
 podman login docker.io

@@ -102,6 +102,10 @@ python -m streamlit run app.py
 
 Then open **http://localhost:8501** in your browser.  
 
+**Note:** To run the app locally, it expects a secret. Add this to .gitignore so you don't accidentally push it to GitHub:
+.streamlit/secrets.toml
+
+
 ## Model
 
 ### Problem framing

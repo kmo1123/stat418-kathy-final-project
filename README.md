@@ -54,7 +54,7 @@ ucla-study-spots/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kmo1123/stat418-kathy-final-project.git
+git clone [https://github.com/kmo1123/stat418-kathy-final-project.git](https://github.com/kmo1123/stat418-kathy-final-project.git)
 cd stat418-kathy-final-project
 ```
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ### 3. Collect data
 
 ```bash
-python ucla_study_spots_collector.py
+python ucla_scraper.py
 ```
 
 This scrapes the UCLA library website and loads static data for cafes, lounges, and outdoor spots. Outputs go to `data/raw/ucla/`.
@@ -75,7 +75,7 @@ This scrapes the UCLA library website and loads static data for cafes, lounges, 
 ### 4. Run EDA and feature engineering
 
 ```bash
-python ucla_study_spots_eda.py
+python eda.py
 ```
 
 Outputs plots to `plots/` and engineered features to `tables/engineered_df.csv`.
@@ -83,7 +83,7 @@ Outputs plots to `plots/` and engineered features to `tables/engineered_df.csv`.
 ### 5. Train and evaluate the model
 
 ```bash
-python ucla_study_spots_model.py
+python modeling.py
 ```
 
 Outputs model comparison scores to `tables/model_scores.csv` and demo recommendations to `tables/recommendations_demo.csv`.

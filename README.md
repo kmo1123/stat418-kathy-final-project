@@ -24,7 +24,7 @@ ucla-study-spots/
 ├── ucla_study_spots_collector.py   # Data collection pipeline
 ├── ucla_study_spots_eda.py         # EDA and feature engineering
 ├── ucla_study_spots_model.py       # Model training and evaluation
-├── Dockerfile.api                  # Docker container for the API
+├── dockerfile                      # Docker container for the API
 ├── requirements.txt                # All dependencies
 ├── data/
 │   └── raw/ucla/
@@ -101,8 +101,6 @@ python -m streamlit run app.py
 ```
 
 Then open **http://localhost:8501** in your browser.  
-
----
 
 ## Model
 

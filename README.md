@@ -204,8 +204,6 @@ Then in Google Cloud Run: Create Service → container image URL → set port 80
 API_URL = "https://your-api.run.app"
 ```
 
-5. Deploy
-
 ## AI Assistant Documentation
 
 ### Tools used

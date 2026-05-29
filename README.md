@@ -13,7 +13,7 @@ The user sets preferences (quiet vs. noisy, needs wifi/outlets, indoor vs. outdo
 
 ## Solution Architecture
 
-<img width="800" height="1109" alt="Screenshot 2026-05-27 at 6 35 53 PM" src="https://github.com/user-attachments/assets/5cc29203-db28-4327-8dca-506c12b0b610" />
+<img width="800" height="1068" alt="Screenshot 2026-05-29 at 2 51 16 PM" src="https://github.com/user-attachments/assets/02b240a9-5b0b-4a5e-a042-c4bace0fe130" />
 
 ## Repository Structure
 

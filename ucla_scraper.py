@@ -1,5 +1,5 @@
 """
-ucla_study_spots_collector.py
+ucla_scraper.py
 ------------------------------
 Collects UCLA on-campus study spot data. Covers four categories:
 

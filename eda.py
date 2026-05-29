@@ -1,5 +1,5 @@
 """
-ucla_study_spots_eda.py
+eda.py
 ------------------------
 Exploratory data analysis of the UCLA study spots dataset.
 
